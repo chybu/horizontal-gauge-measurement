@@ -10,7 +10,7 @@ This repository contains code for measuring **horizontal gauge deviation in rail
 
 ## 🔧 Features
 
-- **Modified SAMURAI Segmentation**:
+- **Modified SAMURAI Segmentation** [Original Version can be found at https://github.com/yangchris11/samurai]:
   - Releases out-of-range tracking frames in `sam2_video_predictor.py`
   - Adds return of candidate masks and their scores in `misc.py` and `sam2_base.py`
   
