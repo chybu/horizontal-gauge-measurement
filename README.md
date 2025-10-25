@@ -2,6 +2,7 @@
   <img src="example.PNG" width="45%"/>
   <img src="vegetation_example.PNG" width="45%"/>
 </p>
+
 # Railroad Gauge Detection with Depth Sensors and Machine Learning
 
 This repository contains code for measuring **horizontal gauge deviation in railroad tracks** using **depth camera data** and **machine learning-based segmentation**. It includes custom modifications to the **SAMURAI** segmentation model, data preprocessing tools, and a full measurement pipeline.
