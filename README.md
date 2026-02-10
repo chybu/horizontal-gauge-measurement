@@ -3,6 +3,9 @@
   <img src="vegetation_example.PNG" width="45%"/>
 </p>
 
+Please cite the following paper when using the provided code or any portion of the dataset, whether partially or fully.
+van Trung Le, Hwapyeong Song, Husnu S. Narman, Pingping Zhu, Ammar Alzarrad, Abby Cisko "Automated Measurement of Horizontal Gauge Deviation in Railroads Using Depth Sensor Camera and Machine Learning," in IEEE Access, vol. 13, pp. 215324-215338, 2025, doi: 10.1109/ACCESS.2025.3641797.
+
 # Railroad Gauge Detection with Depth Sensors and Machine Learning
 
 This repository contains code for measuring **horizontal gauge deviation in railroad tracks** using **depth camera data** and **machine learning-based segmentation**. It includes custom modifications to the **SAMURAI** segmentation model, data preprocessing tools, and a full measurement pipeline.
